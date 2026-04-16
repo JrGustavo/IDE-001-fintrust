@@ -340,7 +340,5 @@ Ver documento completo en [`docs/decisiones-tecnicas.md`](docs/decisiones-tecnic
 
 ## 👤 Autor
 
-**Gustavo Adolfo** · Candidato Ingeniero de Datos Semi-Senior  
+**Gustavo Adolfo** · Ingeniero de Datos Senior  
 Caso Práctico — Ceiba Software
-
-> Este proyecto fue desarrollado con asistencia de Claude (Anthropic) para estructuración de documentación y revisión de lógica SQL. Todos los scripts, decisiones de arquitectura y lógica de negocio fueron diseñados y validados manualmente.

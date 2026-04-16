@@ -36,7 +36,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.parent
 SQL_DIR = BASE_DIR / "sql"
 LOG_DIR = BASE_DIR / "logs"
-DB_PATH = BASE_DIR / "fintrust.duckdb"      # Archivo persistente DuckDB
+DB_PATH = BASE_DIR / "fintrust.duckdb"    # Archivo persistente DuckDB
 WATERMARK_FILE = BASE_DIR / "python" / "watermark.json"
 
 LOG_DIR.mkdir(exist_ok=True)

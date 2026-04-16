@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.duckdb
+logs/
+*.log
+watermark.json
+.DS_Store
+fintrust_dataset_bi.csv
+.idea/
